@@ -41,7 +41,8 @@ public class Board
             for (int j = 0; j < size; j++)
             {
                 myBoard[i][j] = structArr[i][j];
-            }
+            } 
+            // adding note for test commit
         }
 	}
 
